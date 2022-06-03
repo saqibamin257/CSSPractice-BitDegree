@@ -1,0 +1,11 @@
+.hello{
+    width:300px;    
+    padding: 10px;
+    border: 25px solid purple;
+    margin:0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: skyblue;
+    outline-style: dashed;
+}
