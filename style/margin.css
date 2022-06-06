@@ -1,0 +1,20 @@
+h1{
+    margin:30px;
+    border: 8px solid black;
+    text-align: center;
+    background-color: grey;
+    background-position: center;
+    font-weight: bold;
+    font-size: 35px;
+    box-sizing: content-box;
+}
+
+p{
+    background-color: orange;
+    margin:50px;
+    background-position: center;
+    border: 8px solid black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
